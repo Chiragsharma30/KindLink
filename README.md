@@ -1,11 +1,11 @@
-# 🌍 KindLink – AI-Powered Community Needs & Volunteer Matching Platform
+#  KindLink – AI-Powered Community Needs & Volunteer Matching Platform
 
-## 🚀 Overview
+##  Overview
 
 **KindLink** is a web-based platform that connects NGOs and people in need with nearby volunteers using smart matching based on **skills, availability, and urgency**.
 
 The mission is simple:
-👉 *Right help → Right place → Right time*
+ *Right help → Right place → Right time*
 
 KindLink replaces scattered systems like WhatsApp, spreadsheets, and paper records with a **centralized and efficient platform**.
 
@@ -20,7 +20,7 @@ KindLink replaces scattered systems like WhatsApp, spreadsheets, and paper recor
 
 ---
 
-## 💡 Solution
+##  Solution
 
 KindLink provides:
 
@@ -30,26 +30,26 @@ KindLink provides:
 
 ---
 
-## 🧠 Key Features (Current MVP)
+##  Key Features (Current MVP)
 
-* 🔐 User Authentication *(basic / simulated)*
-* 🏢 NGO Dashboard (Post & manage needs)
-* 🙋 Volunteer Dashboard (View & accept tasks)
-* 📊 Task Status Tracking (Pending, In Progress, Completed)
-* 🎯 Basic Skill-Based Matching (rule-based filtering)
-* 🔄 End-to-End Task Flow (Post → Accept → Complete)
+*  User Authentication *(basic / simulated)*
+*  NGO Dashboard (Post & manage needs)
+*  Volunteer Dashboard (View & accept tasks)
+*  Task Status Tracking (Pending, In Progress, Completed)
+*  Basic Skill-Based Matching (rule-based filtering)
+*  End-to-End Task Flow (Post → Accept → Complete)
 
 ---
 
-## 🚧 Features Planned for Future Releases
+##  Features Planned for Future Releases
 
 The following features are part of the product roadmap:
 
-* 🗺️ Map Integration (Google Maps API) – visualize nearby needs
-* 🔔 Notification System – real-time task alerts
-* 📍 Advanced Location-Based Matching – connect nearest volunteers
-* 🤖 AI-Based Smart Matching – intelligent recommendations
-* 🛡️ Trust Score System – improve reliability of volunteers
+*  Map Integration (Google Maps API) – visualize nearby needs
+*  Notification System – real-time task alerts
+*  Advanced Location-Based Matching – connect nearest volunteers
+*  AI-Based Smart Matching – intelligent recommendations
+*  Trust Score System – improve reliability of volunteers
 
 ---
 
@@ -64,17 +64,17 @@ The following features are part of the product roadmap:
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 * **Frontend:** React.js
-* **Backend:** Firebase / Node.js *(basic / optional)*
+* **Backend:** Firebase
 * **Database:** Firebase Firestore *(or mock data for prototype)*
 * **Maps:** Planned (Google Maps API)
 * **AI:** Planned (currently rule-based logic)
 
 ---
 
-## 📊 Project Structure
+##  Project Structure
 
 ```bash
 kindlink/
@@ -109,7 +109,7 @@ npm start
 
 ---
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 * AI-powered urgency detection
 * Personalized task recommendations
@@ -119,7 +119,7 @@ npm start
 
 ---
 
-## 📈 Success Metrics
+##  Success Metrics
 
 * Number of tasks completed
 * Average response time
@@ -128,7 +128,7 @@ npm start
 
 ---
 
-## 💰 Monetization Strategy
+##  Monetization Strategy
 
 * Subscription plans for NGOs
 * CSR (Corporate Social Responsibility) partnerships
@@ -137,7 +137,7 @@ npm start
 
 ---
 
-## 🌱 UN SDG Alignment
+##  UN SDG Alignment
 
 * SDG 1: No Poverty
 * SDG 2: Zero Hunger
@@ -145,7 +145,7 @@ npm start
 
 ---
 
-## 🏆 Prototype Scope
+##  Prototype Scope
 
 This project is a **functional prototype** demonstrating:
 
@@ -156,16 +156,10 @@ This project is a **functional prototype** demonstrating:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
