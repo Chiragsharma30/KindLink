@@ -1,4 +1,4 @@
-#  KindLink – AI-Powered Community Needs & Volunteer Matching Platform
+#  KindLink – Community Needs & Volunteer Matching Platform
 
 ##  Overview
 
